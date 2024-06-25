@@ -1,5 +1,6 @@
 # SourceIt  
-**SourceIt is an AI/NLP chat that provides responses based on user-provided URLs.**
+**Innput URLs, ask questions, get answers and their source(s)!**  
+- **SourceIt is an AI/NLP chat that provides responses based on user-provided URLs.**  
 
 ## Technologies
 ### Languages
