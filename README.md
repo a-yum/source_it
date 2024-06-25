@@ -13,7 +13,10 @@
 - **Streamlit**
   
 ## APIs
--- **OpenAI**
+- **OpenAI: Generate vector embeddings for text data and AI responses to user queries.**
+
+## Testing
+- **unittest**
 
 ## Features
 - **Real-Time Interactive Chat: Displays chat messages and responses in real-time, including chat history.**
