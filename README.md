@@ -27,16 +27,19 @@
 
 ## Screens
 ### Home Page
-**![Home](https://github.com/a-yum/Mooder/assets/171165818/07975198-1734-4df7-9f28-40603f704e77)**
+
+**![Home]![Screen Shot 2024-05-29 at 1 30 05 PM](https://github.com/user-attachments/assets/1e6d5475-8a99-44fb-91b3-8b31ceb71974)**
 
 ### Load Urls
-**![URLS](https://github.com/a-yum/Mooder/assets/171165818/f7317843-3533-4fed-a0f2-1afbc728ea35)**
+**![Screen Shot 2024-05-29 at 1 33 53 PM](https://github.com/user-attachments/assets/fa845411-1463-4b6f-a539-4e5153e1c212)**
 
 ### Ask Questions
-**![Questions](https://github.com/a-yum/Mooder/assets/171165818/5858fd16-3c81-41f8-9689-2a954c877dd2)**
+
+**![Screen Shot 2024-05-29 at 1 36 05 PM](https://github.com/user-attachments/assets/d807531e-f4ec-4647-b946-74bd09f98701)**
 
 ### Get Answers & Their Sources
-**![Answers](https://github.com/a-yum/Mooder/assets/171165818/36531b31-9df6-4e96-ad9f-ad3ec36797c1)**
+
+**![Screen Shot 2024-05-29 at 1 38 13 PM](https://github.com/user-attachments/assets/ec4aaf25-bd76-4e96-a1f5-11ed2a236c8e)**
 
 
 
